@@ -1,0 +1,5 @@
+colocar cmd | na barra da pasta para acessar a pasta selecionada no cmd
+
+code . | para abrir a mesma no vscode
+
+dar npm run dev na pasta do projeto
