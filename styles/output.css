@@ -46,7 +46,7 @@ html,
   -o-tab-size: 4;
      tab-size: 4;
   /* 3 */
-  font-family: Roboto, sans-serif;
+  font-family: Poppins, sans-serif;
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
@@ -756,6 +756,10 @@ video {
 
 .mb-2 {
   margin-bottom: 0.5rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
 }
 
 .mb-6 {
@@ -1913,6 +1917,11 @@ video {
 
 .border-none {
   border-style: none;
+}
+
+.border-red-500 {
+  --tw-border-opacity: 1;
+  border-color: rgb(239 68 68 / var(--tw-border-opacity));
 }
 
 .bg-\[rgb\(255\2c 0\2c 0\)\] {

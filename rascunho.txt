@@ -3,3 +3,8 @@ colocar cmd | na barra da pasta para acessar a pasta selecionada no cmd
 code . | para abrir a mesma no vscode
 
 dar npm run dev na pasta do projeto
+
+Toastify JS - biblioteca de alerts personalizados
+
+"scripts": {
+    "dev": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch" package.json
